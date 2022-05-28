@@ -1,0 +1,12 @@
+Autores: André Klarman, Bernardo Muller, Breno Ferro, David Campos e Thiago Goulart
+
+Trilhagem: Para a confecção de nosso projeto inicialmente pensamentos em utilizar, além das classicas ferramentas HTML e CSS,
+Django e React. Após observarmos que não possuímos conhecimento tecnico suficiente para a utilização destas tecnologias, acabamos
+por optar a utilizar somente o HTML, CSS e Javascript "puro".
+
+Tecnologias utilizadas: HTML, CSS e Javascript
+
+Como utilizar a aplicação: abra o arquivo "index.html" e, a partir dele, selecione as opções de menu que desejares. Podes
+escolher entre um quiz, artigos e informações científicas, vídeos motivacionais, realizar cálculo de TDEE e IMC e "contactar
+um profissional".
+
